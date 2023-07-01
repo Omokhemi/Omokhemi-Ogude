@@ -1,11 +1,20 @@
 ![omokhemi (2)](https://github.com/Omokhemi/Omokhemi-Ogude/assets/138056732/5bdff500-143b-40df-88bb-e2adf9db8719)
 <h1 align="center">Hi 👋, I'm Omokhemi Ogude</h1>
 <h3 align="center">A Business Intelligence Analytics Professional with experience in Data Analysis, Data Visualization and Reporting, ERD designs and Agile Scrum Methodology.</h3>
+Skills
+• Microsoft Excel
+• SQL
+• Microsoft Power BI
+• Tableau
+• Microsoft Power Point
+• Microsoft Vizio
+• Microsoft Word
+• Data Analysis
+• R
+
+Projects
 
 - 🔭 I’ve recently done ' A glimpse of insight into departure delays' [Departure Delays in the USA 2015](https://public.tableau.com/views/AglimpseofInsightintoDepartureDelays/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)
-
-- 🌱 I’m currently learning R **Data Visualization With R**
-
 - 👯 I’m looking to collaborate with Other Data Analysts [https://www.linkedin.com/posts/omokhemi-o-373a441ba_activity-7074132558556327936-hsmM?utm_source=share&utm_medium=member_desktop](https://www.linkedin.com/posts/omokhemi-o-373a441ba_activity-7074132558556327936-hsmM?utm_source=share&utm_medium=member_desktop)
 
 - 💬 Ask me about **Microsoft Excel, Microsoft Power Bi, Tableau and SQL**
