@@ -15,13 +15,16 @@ Skills
 Projects
 
 - 🔭 I’ve recently done ' A glimpse of insight into departure delays' [Departure Delays in the USA 2015](https://public.tableau.com/views/AglimpseofInsightintoDepartureDelays/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)
-- 👯 I’m looking to collaborate with Other Data Analysts [https://www.linkedin.com/posts/omokhemi-o-373a441ba_activity-7074132558556327936-hsmM?utm_source=share&utm_medium=member_desktop](https://www.linkedin.com/posts/omokhemi-o-373a441ba_activity-7074132558556327936-hsmM?utm_source=share&utm_medium=member_desktop)
+- [SQL Project Udacity queries 6.txt](https://github.com/Omokhemi/Omokhemi-Ogude/files/11926852/SQL.Project.Udacity.queries.6.txt)
+- [projectdata-nyse Omokhemi Ogude.xls.xlsx](https://github.com/Omokhemi/Omokhemi-Ogude/files/11926845/projectdata-nyse.Omokhemi.Ogude.xls.xlsx)
+  -- 👯 I’m looking to collaborate with Other Data Analysts [https://www.linkedin.com/posts/omokhemi-o-373a441ba_activity-7074132558556327936-hsmM?utm_source=share&utm_medium=member_desktop](https://www.linkedin.com/posts/omokhemi-o-373a441ba_activity-7074132558556327936-hsmM?utm_source=share&utm_medium=member_desktop)
 
 - 💬 Ask me about **Microsoft Excel, Microsoft Power Bi, Tableau and SQL**
 
 - 📫 How to reach me **omokhafuetexas2019@gmail.com, https://github-readme-stats.vercel.app/api/top-langs?username=omokhemi-ogude**
 
 - 📄 Know about my experiences [www.linkedin.com/in/ omokhemi-o-373a441ba](www.linkedin.com/in/ omokhemi-o-373a441ba)
+
 
 - ⚡ Fun fact **Love to sing and cook**
 
