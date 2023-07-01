@@ -1,4 +1,4 @@
-![omokhemi (2)](https://github.com/Omokhemi/Omokhemi-Ogude/assets/138056732/5bdff500-143b-40df-88bb-e2adf9db8719)
+![sweet omokhemi](https://github.com/Omokhemi/Omokhemi-Ogude/assets/138056732/6db9da1c-6483-4254-a6fa-51aaf3ed46ee)
 <h1 align="center">Hi 👋, I'm Omokhemi Ogude from Fort Worth Texas U.S.A </h1>
 <h3 align="center">A Business Intelligence Analytics Professional with experience in Data Analysis, Data Visualization and Reporting, ERD designs and Agile Scrum Methodology.</h3>
 Skills
